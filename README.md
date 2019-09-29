@@ -38,3 +38,10 @@ An example would be turging on a microwave using the start function. The user do
 
 ### Inheritance
 The ability to inherit behavaoiurs and chateristics from a parent class.
+
+### Polymorphisim
+
+Ability to change the form of methods and or charateristics of subclasses &/objects
+
+### Encapsulation
+The ability to restrict visibility and access to methods or charaterisitcs

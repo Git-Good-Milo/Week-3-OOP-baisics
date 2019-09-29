@@ -15,5 +15,5 @@ class Reptile(Animal):  # Inheritance
         return 'OMG THESE things are soooo delicious! WHat are they called? ' + food
 
     # Adding a new method to this class ( Ploymorphing)
-    def seek_heat(self):
-        return 'My gosh this is a bit chilly wot wot! Said the posh Reptile. I need to find some warmth old boy!'
+    def seek_heat(self, cool, mega, swag):
+        return 'My gosh this is a bit chilly wot wot! Said the posh Reptile. I need to find some warmth old boy!' + cool + mega + ': ' + swag

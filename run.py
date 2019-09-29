@@ -6,9 +6,9 @@ my_animal = Animal('George', 10, 'brown') #this is where i created an instance o
 reptile = Reptile('Ringo', 25,  'Iridesent pink', 2, 'forest')
 
 print(reptile.eat())
-print(reptile.seek_heat())
-print(reptile.number_h)
-print(reptile.camoflage)
+print(reptile.seek_heat('Wow!', 'Mgea cool', 'Yooo'))
+# print(reptile.number_h)
+# print(reptile.camoflage)
 
 
 # print(my_animal)
